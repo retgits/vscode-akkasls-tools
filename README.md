@@ -1,4 +1,4 @@
-# Visual Studio Code Akka Serverless Tools
+# Visual Studio Code Akka Serverless Tools 
 
 Manage the stateful serverless applications you build on [Akka Serverless](https://akkaserverless.com), without leaving your favorite IDE!
 
